@@ -1,0 +1,84 @@
+﻿@model FlowAuth.Models.Client
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Client</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_service)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_service)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_regNo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Company_regNo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_work_address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_work_address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_workNo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_workNo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_DOB)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_DOB)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_id_no)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_id_no)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_contactName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_contactName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_contactEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_contactEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Client_contactNo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client_contactNo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Account_status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Account_status)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ClientID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

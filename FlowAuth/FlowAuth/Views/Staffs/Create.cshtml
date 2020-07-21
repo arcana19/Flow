@@ -1,0 +1,129 @@
+﻿@model FlowAuth.Models.Staff
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Staff</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Staff_type" class="control-label"></label>
+                <select asp-for="Staff_type" class="form-control">
+                    <option value="">---Select type---</option>
+                    <option value="Admin">Admin</option>
+                    <option value="Management">Management</option>
+                    <option value="Staff">Staff</option>
+                </select>
+                <span asp-validation-for="Staff_type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_fullName" class="control-label"></label>
+                <input asp-for="Staff_fullName" class="form-control" />
+                <span asp-validation-for="Staff_fullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_position" class="control-label"></label>
+                <input asp-for="Staff_position" class="form-control" />
+                <span asp-validation-for="Staff_position" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_emp_nature" class="control-label"></label>
+                <select asp-for="Staff_emp_nature" class="form-control">
+                    <option value="">---Select type---</option>
+                    <option value="Permanent">Permanent</option>
+                    <option value="Temporary">Temporary</option>
+                </select>
+                <span asp-validation-for="Staff_emp_nature" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_res_addr" class="control-label"></label>
+                <input asp-for="Staff_res_addr" class="form-control" />
+                <span asp-validation-for="Staff_res_addr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_cellphone" class="control-label"></label>
+                <input asp-for="Staff_cellphone" class="form-control" />
+                <span asp-validation-for="Staff_cellphone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_email" class="control-label"></label>
+                <input asp-for="Staff_email" class="form-control" />
+                <span asp-validation-for="Staff_email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_DOB" class="control-label"></label>
+                <input asp-for="Staff_DOB" class="form-control" />
+                <span asp-validation-for="Staff_DOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_country" class="control-label"></label>
+                <input asp-for="Staff_country" class="form-control" />
+                <span asp-validation-for="Staff_country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_idNum" class="control-label"></label>
+                <input asp-for="Staff_idNum" class="form-control" />
+                <span asp-validation-for="Staff_idNum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_passport" class="control-label"></label>
+                <input asp-for="Staff_passport" class="form-control" />
+                <span asp-validation-for="Staff_passport" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_incomeTax" class="control-label"></label>
+                <input asp-for="Staff_incomeTax" class="form-control" />
+                <span asp-validation-for="Staff_incomeTax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_medicalAid" class="control-label"></label>
+                <input asp-for="Staff_medicalAid" class="form-control" />
+                <span asp-validation-for="Staff_medicalAid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_medicalAidNo" class="control-label"></label>
+                <input asp-for="Staff_medicalAidNo" class="form-control" />
+                <span asp-validation-for="Staff_medicalAidNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_nextKin_name" class="control-label"></label>
+                <input asp-for="Staff_nextKin_name" class="form-control" />
+                <span asp-validation-for="Staff_nextKin_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_nextKin_cellphone" class="control-label"></label>
+                <input asp-for="Staff_nextKin_cellphone" class="form-control" />
+                <span asp-validation-for="Staff_nextKin_cellphone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Staff_rate" class="control-label"></label>
+                <input asp-for="Staff_rate" class="form-control" />
+                <span asp-validation-for="Staff_rate" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Staff_leaveDays" class="control-label"></label>
+                <input asp-for="Staff_leaveDays" class="form-control" value="100" />
+                <span asp-validation-for="Staff_leaveDays" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Staff_lastDay" class="control-label"></label>
+                <input type="date" asp-for="Staff_lastDay" class="form-control" value="0001-01-01" )" />
+                <span asp-validation-for="Staff_lastDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

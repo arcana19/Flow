@@ -1,0 +1,262 @@
+﻿@model IEnumerable<FlowAuth.Models.Client>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Clients</h2>
+<style>
+
+
+    body {
+        background-color: #3e94ec;
+        font-family: "Roboto", helvetica, arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-rendering: optimizeLegibility;
+    }
+
+    div.table-title {
+        display: block;
+        margin: auto;
+        max-width: 600px;
+        padding: 5px;
+        width: 100%;
+    }
+
+    .table-title h3 {
+        color: #fafafa;
+        font-size: 18px;
+        font-weight: 200;
+        font-style: normal;
+        font-family: "Roboto", helvetica, arial, sans-serif;
+        text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+        text-transform: uppercase;
+    }
+
+
+    /*** Table Styles **/
+
+    .table-fill {
+        background: white;
+        border-radius: 3px;
+        border-collapse: collapse;
+        height: 320px;
+        margin: auto;
+        max-width: 600px;
+        padding: 5px;
+        width: 100%;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        animation: float 5s infinite;
+    }
+
+    th {
+        color: #D5DDE5;
+        background: #1b1e24;
+        border-bottom: 4px solid #9ea7af;
+        border-right: 1px solid #343a45;
+        font-size: 18px;
+        font-weight: 100;
+        padding: 24px;
+        text-align: left;
+        text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+        vertical-align: middle;
+    }
+
+        th:first-child {
+            border-top-left-radius: 3px;
+        }
+
+        th:last-child {
+            border-top-right-radius: 3px;
+            border-right: none;
+        }
+
+    tr {
+        border-top: 1px solid #C1C3D1;
+        background-color: midnightblue;
+        color: black;
+        font-size: 14px;
+        font-weight: normal;
+        text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+    }
+
+        tr:hover td {
+            background: black;
+            color: #FFFFFF;
+            border-top: 1px solid #22262e;
+        }
+
+        tr:first-child {
+            border-top: none;
+        }
+
+        tr:last-child {
+            border-bottom: none;
+        }
+
+        tr:nth-child(odd) td {
+            background: #4E5066;
+        }
+
+        tr:nth-child(odd):hover td {
+            background: black;
+        }
+
+        tr:last-child td:first-child {
+            border-bottom-left-radius: 3px;
+        }
+
+        tr:last-child td:last-child {
+            border-bottom-right-radius: 3px;
+        }
+
+    td {
+        background: rgba(0, 0, 0, 0.57);
+        padding: 20px;
+        text-align: left;
+        vertical-align: middle;
+        font-weight: 300;
+        font-size: 12px;
+        color: white;
+        text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+        border-right: 1px solid #C1C3D1;
+    }
+
+        td:last-child {
+            border-right: 0px;
+        }
+
+    th.text-left {
+        text-align: left;
+    }
+
+    th.text-center {
+        text-align: center;
+    }
+
+    th.text-right {
+        text-align: right;
+    }
+
+    td.text-left {
+        text-align: left;
+    }
+
+    td.text-center {
+        text-align: center;
+    }
+
+    td.text-right {
+        text-align: right;
+    }
+
+    button {
+        background-color: white;
+        color: midnightblue;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+
+        button:hover {
+            background-color: hotpink;
+        }
+
+    input[type=text] {
+        padding: 6px;
+        border: none;
+        margin-top: 8px;
+        margin-right: 16px;
+        font-size: 17px;
+        text-decoration-color: black;
+        color: black;
+    }
+</style>
+@using (Html.BeginForm())
+{
+    <p style="float:right;">
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" style="border-radius:2px;background-color: white; color:black;padding: 6px;
+        border: none;
+        margin-top: 8px;
+        margin-right: 16px;
+        font-size: 17px;" />
+        <a asp-action="Index">
+            <button style="border-radius:2px;background-color: white; color:black;padding: 4px;
+        border: none;
+        margin-top: 8px;
+        margin-right: 16px;
+        font-size: 14px;">
+                <i class="material-icons">reply</i>
+            </button>
+        </a>
+    </p>
+}
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.ActionLink("Client Name", "Index", new { sortOrder = ViewBag.ClientNameSortParm })
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Client_service)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Client_work_address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Client_workNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Client_contactName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Client_contactEmail)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Client_contactNo)
+                </th>
+                <th>
+                    @Html.ActionLink("Account status", "Index", new { sortOrder = ViewBag.AccountSortParm })
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_service)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_work_address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_workNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_contactName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_contactEmail)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Client_contactNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Account_status)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ClientID"><button type="button"><i class="material-icons">create</i></button></a> |
+                        <a asp-action="Details" asp-route-id="@item.ClientID"><button type="button"><i class="material-icons">list</i></button></a> |
+                        <a asp-action="Delete" asp-route-id="@item.ClientID"><button type="button"><i class="material-icons">clear</i></button></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

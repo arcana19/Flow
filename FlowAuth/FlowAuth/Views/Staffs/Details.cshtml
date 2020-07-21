@@ -1,0 +1,138 @@
+﻿@model FlowAuth.Models.Staff
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Staff</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StaffID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_type)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_type)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_fullName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_fullName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_position)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_position)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_emp_nature)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_emp_nature)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_res_addr)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_res_addr)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_cellphone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_cellphone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_DOB)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_DOB)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_country)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_country)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_idNum)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_idNum)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_passport)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_passport)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_incomeTax)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_incomeTax)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_medicalAid)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_medicalAid)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_medicalAidNo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_medicalAidNo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_nextKin_name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_nextKin_name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_nextKin_cellphone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_nextKin_cellphone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_rate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_rate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_leaveDays)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_leaveDays)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff_lastDay)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff_lastDay)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.StaffID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

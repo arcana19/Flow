@@ -1,0 +1,66 @@
+﻿@model FlowAuth.Models.Leave
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Leave</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Leave_type)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Leave_type)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Leave_days_taken)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Leave_days_taken)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Leave_startDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Leave_startDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Leave_endDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Leave_endDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Leave_motivation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Leave_motivation)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Leave_status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Leave_status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff.Staff_fullName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AppUser)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AppUser.Staff.Staff_fullName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LeaveID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

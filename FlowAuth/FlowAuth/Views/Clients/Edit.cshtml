@@ -1,0 +1,84 @@
+﻿@model FlowAuth.Models.Client
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Client</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ClientID" />
+            <div class="form-group">
+                <label asp-for="Client_name" class="control-label"></label>
+                <input asp-for="Client_name" class="form-control" />
+                <span asp-validation-for="Client_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_service" class="control-label"></label>
+                <input asp-for="Client_service" class="form-control" />
+                <span asp-validation-for="Client_service" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company_regNo" class="control-label"></label>
+                <input asp-for="Company_regNo" class="form-control" />
+                <span asp-validation-for="Company_regNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_work_address" class="control-label"></label>
+                <input asp-for="Client_work_address" class="form-control" />
+                <span asp-validation-for="Client_work_address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_workNo" class="control-label"></label>
+                <input asp-for="Client_workNo" class="form-control" />
+                <span asp-validation-for="Client_workNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_DOB" class="control-label"></label>
+                <input asp-for="Client_DOB" class="form-control" />
+                <span asp-validation-for="Client_DOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_id_no" class="control-label"></label>
+                <input asp-for="Client_id_no" class="form-control" />
+                <span asp-validation-for="Client_id_no" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_contactName" class="control-label"></label>
+                <input asp-for="Client_contactName" class="form-control" />
+                <span asp-validation-for="Client_contactName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_contactEmail" class="control-label"></label>
+                <input asp-for="Client_contactEmail" class="form-control" />
+                <span asp-validation-for="Client_contactEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client_contactNo" class="control-label"></label>
+                <input asp-for="Client_contactNo" class="form-control" />
+                <span asp-validation-for="Client_contactNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Account_status" class="control-label"></label>
+                <input asp-for="Account_status" class="form-control" />
+                <span asp-validation-for="Account_status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

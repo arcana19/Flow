@@ -1,0 +1,66 @@
+﻿@model FlowAuth.Models.Leave
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Leave</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Leave_type" class="control-label"></label>
+                <select asp-for="Leave_type" class="form-control" asp-items="Html.GetEnumSelectList<LeaveType>() "></select>
+                <span asp-validation-for="Leave_type" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Leave_days_taken" class="control-label"></label>
+                <input asp-for="Leave_days_taken" class="form-control" value="0"/>
+                <span asp-validation-for="Leave_days_taken" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Leave_startDate" class="control-label"></label>*
+                <input asp-for="Leave_startDate" class="form-control" />
+                <span asp-validation-for="Leave_startDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Leave_endDate" class="control-label"></label>*
+                <input asp-for="Leave_endDate" class="form-control" />
+                <span asp-validation-for="Leave_endDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Leave_motivation" class="control-label"></label>
+                <input asp-for="Leave_motivation" class="form-control" />
+                <span asp-validation-for="Leave_motivation" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Leave_status" class="control-label"></label>
+                <input asp-for="Leave_status" class="form-control" value="Pending" />
+                <span asp-validation-for="Leave_status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StaffID" class="control-label"></label>*
+                <select asp-for="StaffID" class="form-control" asp-items="ViewBag.StaffID" asp-></select>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="UserId" class="control-label"></label>
+                <input asp-for="UserId" class="form-control" value="" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

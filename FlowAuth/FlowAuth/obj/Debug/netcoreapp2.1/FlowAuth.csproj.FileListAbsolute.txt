@@ -1,0 +1,678 @@
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.deps.json
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.json
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.dev.json
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.dll
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csprojAssemblyReference.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CoreCompileInputs.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfoInputs.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfo.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.input.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.output.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorCoreGenerate.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cache
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CopyComplete
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.deps.json
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.json
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.dev.json
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.dll
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csprojAssemblyReference.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CoreCompileInputs.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfoInputs.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfo.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.input.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.output.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorCoreGenerate.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cache
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CopyComplete
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Staff.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\EditUserRoles.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\EmployeeIndividual.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\EmployeeSummary.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\Project.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\UserLogs.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\All.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\old\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csprojAssemblyReference.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CoreCompileInputs.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfoInputs.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfo.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.input.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.output.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorCoreGenerate.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Calendar.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Staff.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\All.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\UserLogs.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\EditUserRoles.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cache
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.deps.json
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.json
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.dev.json
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.dll
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CopyComplete
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\Index.g.cshtml.cs
+C:\Users\harve\Desktop\FlowAuth\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Assignment.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Calendar.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Staff.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\All.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\UserLogs.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Assignment.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\EditUserRoles.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.deps.json
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.json
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.dev.json
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.dll
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csprojAssemblyReference.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CoreCompileInputs.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfoInputs.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfo.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.input.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.output.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorCoreGenerate.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Calendar.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Staff.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\All.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\UserLogs.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Assignment.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\EditUserRoles.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cache
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cs
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\harve\Desktop\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CopyComplete
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.deps.json
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.json
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.runtimeconfig.dev.json
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.dll
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\bin\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csprojAssemblyReference.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CoreCompileInputs.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfoInputs.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.AssemblyInfo.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.input.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.TagHelpers.output.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorCoreGenerate.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Assigneds\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Calendar.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Staff.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\All.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Leaves\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Phases\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Assignment.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Reports\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\EditUserRoles.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\SuppliedBy\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Suppliers\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cache
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.RazorTargetAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.Views.pdb
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.dll
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.pdb
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\FlowAuth.csproj.CopyComplete
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Claims\All.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Views\Logs\All.g.cshtml.cs
+C:\Users\stsplanet\source\repos\Project day\FlowAuth\FlowAuth\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetUpProfile.g.cshtml.cs

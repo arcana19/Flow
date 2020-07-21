@@ -1,0 +1,130 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+@{
+    Layout = null;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+
+
+
+<style>
+
+    body {
+        background-image: linear-gradient(to right, rgb(19,141,205), rgb(0, 91, 151));
+        color: #FFFFFF;
+        font-family: "Roboto", helvetica, arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-rendering: optimizeLegibility;
+        justify-content: center;
+        position: center;
+        text-align: center;
+    }
+
+
+
+
+    button {
+        background-color: white;
+        color: midnightblue;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .form-group {
+        align-self: center;
+    }
+
+    .form-control {
+        border-radius: 2px;
+        background-color: white;
+        color: black;
+        padding: 6px;
+        border: none;
+        margin-top: 8px;
+        margin-right: 16px;
+        font-size: 17px;
+    }
+
+    link {
+        text-decoration-line: none;
+    }
+
+    button:hover {
+        background-color: hotpink;
+    }
+
+    /* Add a background color and some padding around the form */
+
+
+</style>
+
+
+<div style="background-color:rgba(0, 0, 0, 0.76); padding:10px 20px 20px 20px; top:200px; left:400px; border-radius: 10px; align-self:center">
+    <div class="row" style="align-self:center;">
+        <div class="col-md-4" style="align-self:center;">
+   
+            <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <div class="logo" style="align-self:center;">
+                    <img src="https://d2bkbw.am.files.1drv.com/y4p17U7c9u4Rwx25M-a4bJ8Ys4LE_ityeCJH1GYprmgKfQb12TMGbnbOQe54kxdSCfyi4RZp0ilYzdH4FG0d1iV8wbDLv8zfXiy-VrvjtjlwajXqRcmPhLqxv0xesSnnSmVaVwcmISVxp5pTVUt5DaZJ6iDH98zj74SSY1rH-jiSOCCT8tmWdH6WtLro49WJLJD_xhvE-cvdAvXUUj1NpleVA/Flow%20Logo.png?psid=1" alt="Flow ERP Logo" width=200 height=64 />
+                </div>
+
+                @if (ViewBag.Message == null)
+                {
+
+
+                    <h4>Create a new account.</h4>
+                    <hr />
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Input.FullName"></label>*
+                        <input asp-for="Input.FullName" class="form-control" />
+                        <span asp-validation-for="Input.FullName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Input.Email"></label>*
+                        <input asp-for="Input.Email" class="form-control" placeholder="Email" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Input.Password"></label>*
+                        <input asp-for="Input.Password" class="form-control" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Input.ConfirmPassword"></label>*
+                        <input asp-for="Input.ConfirmPassword" class="form-control" />
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <div class="form-mgroup" style="align-self:center;display: inline-block ; padding:25px">
+                        <button type="submit" class="btn btn-default" onclick="go">Register</button>
+                        <button asp-page="Login" asp-area="Account" class="btn btn-default">Back</button>
+                    </div>
+                }
+                else
+                {
+                    <div class="form-mgroup" style="align-self:center; padding:25px">
+                        Set up your staff profile with admin before registering
+                        @{
+                            ViewBag.Message = "";
+                         }
+                    </div>
+                    <div class="form-mgroup" style="align-self:center;display: inline-block ; padding:25px">
+                        <button asp-page="Login" asp-area="Account" class="btn btn-default">Back</button>
+                    </div>
+                }
+            </form>        
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,57 @@
+﻿@model FlowAuth.Models.Claim
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Claim</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Claim_amount)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Claim_amount)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Claim_description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Claim_description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Claim_status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Claim_status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Claim_date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Claim_date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff.Staff_fullName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AppUser)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AppUser.FullName)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ClaimID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

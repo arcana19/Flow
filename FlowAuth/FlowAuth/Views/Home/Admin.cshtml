@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<h2>Admin Quick Access</h2>
+
+<html>
+<head>
+    <style>
+        .item1 {
+            grid-area: staff;
+        }
+
+        .item2 {
+            grid-area: claim;
+        }
+
+        .item3 {
+            grid-area: timesheet;
+        }
+
+        .item4 {
+            grid-area: leave;
+        }
+
+        .item5 {
+            grid-area: client;
+        }
+
+        .item6 {
+            grid-area: supplier;
+        }
+
+        .item7 {
+            grid-area: report;
+        }
+
+        .item8 {
+            grid-area: leaves;
+        }
+
+        .item9 {
+            grid-area: claims;
+        }
+
+        .item10{
+            grid-area: roles;
+        }
+       
+
+        .grid-container {
+            display: grid;
+            grid-template-areas: 'timesheet claim leave' 'staff client supplier' 'leaves leaves claims' 'report report report';
+            grid-gap: 10px;
+            padding: 10px;
+            position: center;
+        }
+
+            .grid-container > div {
+                background-color: rgba(0, 0, 0, 0.76);
+                text-align: center;
+                padding: 20px 0;
+                font-size: 20px;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="logo" , style="position:center">
+        <img src="https://d2bkbw.am.files.1drv.com/y4p17U7c9u4Rwx25M-a4bJ8Ys4LE_ityeCJH1GYprmgKfQb12TMGbnbOQe54kxdSCfyi4RZp0ilYzdH4FG0d1iV8wbDLv8zfXiy-VrvjtjlwajXqRcmPhLqxv0xesSnnSmVaVwcmISVxp5pTVUt5DaZJ6iDH98zj74SSY1rH-jiSOCCT8tmWdH6WtLro49WJLJD_xhvE-cvdAvXUUj1NpleVA/Flow%20Logo.png?psid=1" alt="Flow ERP Logo" width=501 height=147 />
+    </div>
+
+    <div class="grid-container">
+        <div class="item1"><a asp-controller="Staffs" asp-action="Create"><i class="material-icons">people</i>Add New Staff</a></div>
+        <div class="item10"><a asp-controller="Roles" asp-action="Index"><i class="material-icons">add</i>Manage roles</a></div>
+        <div class="item2"><a asp-controller="Claims" asp-action="Create"><i class="material-icons">account_balance_wallet</i>Submit Claim</a></div>
+        <div class="item3"><a asp-controller="Logs" asp-action="Create"><i class="material-icons">event</i>Add To Timesheet</a></div>
+        <div class="item4"><a asp-controller="Leaves" asp-action="Create"><i class="material-icons">flight</i>Request Leave</a></div>
+        <div class="item5"><a asp-controller="Clients" asp-action="Create"><i class="material-icons">business_center</i>Add New Client</a></div>
+        <div class="item6"><a asp-controller="Suppliers" asp-action="Create"><i class="material-icons">local_shipping</i>Add New Supplier</a></div>
+        <div class="item7"><a  asp-controller="Reports" asp-action="Index"><i class="material-icons">insert_chart_outlined</i>Generate Reports</a></div>
+        <div class="item8"><a asp-controller="Leaves" asp-action="All"><i class="material-icons">flight</i>See All Leaves</a></div>
+        <div class="item9"><a asp-controller="Claims" asp-action="All"><i class="material-icons">account_balance_wallet</i>See All Claims</a></div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿@model FlowAuth.Models.Log
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Log</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Log_date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Log_date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Log_hours)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Log_hours)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.Project_Code)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Staff.Staff_fullName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TaskDescription)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TaskDescription.Task_name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LogID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
